@@ -1,0 +1,2 @@
+# xquartz
+settings for xquartz
