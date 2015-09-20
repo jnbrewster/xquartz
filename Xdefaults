@@ -1,0 +1,49 @@
+XTerm*boldMode:						false
+XTerm*allowBoldFonts:     false
+XTerm*dynamicColors:      true
+XTerm*utf8:               2
+XTerm*scrollKey:          true
+XTerm*scrollTtyOutput:    false
+XTerm*toolBar:            false
+XTerm*rightScrollBar:			false
+XTerm*ScrollBar:					false
+XTerm*cursorBlink: true
+Term*selectToClipboard: true
+XTerm*selectToClipboard: true
+
+! Colors
+*background: #3a3a3a
+*foreground: #d0d0d0
+*cursorColor: #ffd787
+
+!! black dark/light
+*color0: #4e4e4e
+*color8: #626262
+
+!! red dark/light
+*color1: #d75f87
+*color9: #d68787
+
+!! green dark/light
+*color2: #5f865f
+*color10: #87af87
+
+!! yellow dark/light
+*color3: #d8af5f
+*color11: #ffd787
+
+!! blue dark/light
+*color4: #85add4
+*color12: #add4fb
+
+!! magenta dark/light
+*color5: #d7afaf
+*color13: #ffafaf
+
+!! cyan dark/light
+*color6: #87afaf
+*color14: #87d7d7
+
+!! white dark/light
+*color7: #d0d0d0
+color15: #87af87
