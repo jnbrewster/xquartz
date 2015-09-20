@@ -1,6 +1,6 @@
 XTerm*boldMode: false
 XTerm*allowBoldFonts: false
-XTerm*dynamicColors:      true
+XTerm*dynamicColors:  true
 XTerm*utf8: 2
 XTerm*scrollKey:  true
 XTerm*scrollTtyOutput:  false
