@@ -1,35 +1,24 @@
-
-!xterm*font: -*-fixed-medium-r-*-*-18-*-*-*-*-*-iso8859-*
-
-UXTerm*boldMode:						false
-UXTerm*allowBoldFonts:     false
-UXTerm*dynamicColors:      true
-UXTerm*utf8:               2
-UXTerm*scrollKey:          true
-UXTerm*scrollTtyOutput:    false
-UXTerm*toolBar:            false
-UXTerm*rightScrollBar:			false
-UXTerm*ScrollBar:					false
+! Font xterm
+UXTerm*faceName: Dina:pixelsize=16
+UXTerm*font: fixed
+UXTerm*boldFont: fixed
+UXTerm*allowBoldFonts: false
+UXTerm*cursorBlink: true
+UXTerm*selectToClipboard: true
+UXTerm*boldMode: false
+UXTerm*allowBoldFonts: false
+UXTerm*dynamicColors: true
+UXTerm*utf8: 2
+UXTerm*scrollKey: true
+UXTerm*scrollTtyOutput: false
+UXTerm*toolBar: false
+UXTerm*rightScrollBar: false
+UXTerm*ScrollBar: false
 UXTerm*cursorBlink: true
 UTerm*selectToClipboard: true
 UXTerm*selectToClipboard: true
 
-
-XTerm*boldMode:						false
-XTerm*allowBoldFonts:     false
-XTerm*dynamicColors:      true
-XTerm*utf8:               2
-XTerm*scrollKey:          true
-XTerm*scrollTtyOutput:    false
-XTerm*toolBar:            false
-XTerm*rightScrollBar:			false
-XTerm*ScrollBar:					false
-XTerm*cursorBlink: true
-Term*selectToClipboard: true
-XTerm*selectToClipboard: true
-
 ! Colors
-
 *background: #3a3a3a
 *foreground: #d0d0d0
 *cursorColor: #ffd787
