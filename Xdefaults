@@ -1,25 +1,23 @@
+!xterm*locale: true
+!xterm*utf8: 1
+
 ! Font xterm
+XTerm*faceName: Dina:pixelsize=16
+XTerm*font: fixed
+XTerm*boldFont: fixed
+XTerm*allowBoldFonts: false
+XTerm*cursorBlink: true
+XTerm*selectToClipboard: true
+
 UXTerm*faceName: Dina:pixelsize=16
 UXTerm*font: fixed
 UXTerm*boldFont: fixed
 UXTerm*allowBoldFonts: false
 UXTerm*cursorBlink: true
 UXTerm*selectToClipboard: true
-UXTerm*boldMode: false
-UXTerm*allowBoldFonts: false
-UXTerm*dynamicColors: true
-UXTerm*utf8: 2
-UXTerm*scrollKey: true
-UXTerm*scrollTtyOutput: false
-UXTerm*toolBar: false
-UXTerm*rightScrollBar: false
-UXTerm*ScrollBar: false
-UXTerm*cursorBlink: true
-UTerm*selectToClipboard: true
-UXTerm*selectToClipboard: true
 
 ! Colors
-*background: #3a3a3a
+*background: #252525
 *foreground: #d0d0d0
 *cursorColor: #ffd787
 
@@ -54,5 +52,4 @@ UXTerm*selectToClipboard: true
 !! white dark/light
 *color7: #d0d0d0
 color15: #87af87
-
 
